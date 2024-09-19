@@ -1,6 +1,6 @@
 ## Hi there 👋
 My git skills uploading.
-![Alt text](https://github.com/rudrabarad/Gifs)
+
 <!--
 **endereml/endereml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
