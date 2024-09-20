@@ -1,5 +1,5 @@
-## Hi there 👋
-My git skills uploading.
+## Hello all. 👋
+I'm currently attending ASU studying Graphic Information Technology (User Experience).
 
 <!--
 **endereml/endereml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
