@@ -7,10 +7,10 @@ I'm currently attending ASU studying Graphic Information Technology (User Experi
 
 <table>
   <tr>
-    <td>
+    <td valign="top">
       <img src="https://github-readme-stats.vercel.app/api?username=endereml&show_icons=true&theme=radical" />
     </td>
-    <td>
+    <td valign="top">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=endereml&layout=compact&theme=radical" />
     </td>
   </tr>
