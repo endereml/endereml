@@ -1,8 +1,10 @@
-## Hello all. 👋
+#![uxdesign](https://github.com/user-attachments/assets/634f9f06-fb96-4cf8-82a5-608ad31d7738)
+# Hello all. 👋
 I'm currently attending ASU studying Graphic Information Technology (User Experience). I worked in advertising industry, as a Graphic Designer, as a Copwriter for 30 years as well. 
 
 <!--
-**endereml/endereml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**endereml/endereml** is a ✨ _special_ ✨ repository because its `README.md` (this![Uploading uxdesign.jpg…]()
+ file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
