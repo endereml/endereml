@@ -7,7 +7,7 @@ I'm currently attending ASU studying Graphic Information Technology (User Experi
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=endereml&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=endereml&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=endereml&layout=compact&langs_count=10&theme=radical)
 <!--
 **endereml/endereml** is a ✨ _special_ ✨ repository because its `README.md` (this![Uploading uxdesign.jpg…]()
  file) appears on your GitHub profile.
