@@ -1,4 +1,5 @@
-#![uxdesign](https://github.com/user-attachments/assets/634f9f06-fb96-4cf8-82a5-608ad31d7738)
+#![uxdesign]([https://github.com/user-attachments/assets/634f9f06-fb96-4cf8-82a5-608ad31d7738](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp4eGk5bTd3eXNxMTRia2lpcGYwYnAwajRicHNkZmI0NHU5Y2J3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oMHPlvpTvnXGPS7GhX/giphy.gif
+)
 # Hello all. 👋
 I'm currently attending ASU studying Graphic Information Technology (User Experience). I worked in advertising industry, as a Graphic Designer, as a Copwriter for 30 years as well. 
 
