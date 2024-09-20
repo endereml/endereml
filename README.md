@@ -1,5 +1,5 @@
 ## Hello all. 👋
-I'm currently attending ASU studying Graphic Information Technology (User Experience).
+I'm currently attending ASU studying Graphic Information Technology (User Experience). I worked in advertising industry, as a Graphic Designer, as a Copwriter for 30 years as well. 
 
 <!--
 **endereml/endereml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
