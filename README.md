@@ -5,6 +5,8 @@
 # Hello all. 👋
 I'm currently attending ASU studying Graphic Information Technology (User Experience). I worked in advertising industry, as a Graphic Designer, as a Copwriter for 30 years as well. 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=endereml&show_icons=true&theme=radical)
+
 <!--
 **endereml/endereml** is a ✨ _special_ ✨ repository because its `README.md` (this![Uploading uxdesign.jpg…]()
  file) appears on your GitHub profile.
