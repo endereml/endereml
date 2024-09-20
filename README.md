@@ -5,7 +5,7 @@
 # Hello all. 👋
 I'm currently attending ASU studying Graphic Information Technology (User Experience). I worked in advertising industry, as a Graphic Designer, as a Copwriter for 30 years as well. 
 
-<table>
+<table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td valign="top">
       <img src="https://github-readme-stats.vercel.app/api?username=endereml&show_icons=true&theme=radical" />
