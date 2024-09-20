@@ -5,9 +5,16 @@
 # Hello all. 👋
 I'm currently attending ASU studying Graphic Information Technology (User Experience). I worked in advertising industry, as a Graphic Designer, as a Copwriter for 30 years as well. 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=endereml&show_icons=true&theme=radical&card_width=100)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=endereml&layout=compact&langs_count=10&theme=radical)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=endereml&show_icons=true&theme=radical" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=endereml&layout=compact&theme=radical" />
+    </td>
+  </tr>
+</table>
 <!--
 **endereml/endereml** is a ✨ _special_ ✨ repository because its `README.md` (this![Uploading uxdesign.jpg…]()
  file) appears on your GitHub profile.
