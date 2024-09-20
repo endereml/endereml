@@ -5,7 +5,7 @@
 # Hello all. 👋
 I'm currently attending ASU studying Graphic Information Technology (User Experience). I worked in advertising industry, as a Graphic Designer, as a Copwriter for 30 years as well. 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=endereml&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=endereml&show_icons=true&theme=radical&card_width=200)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=endereml&layout=compact&langs_count=10&theme=radical)
 <!--
