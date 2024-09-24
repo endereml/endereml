@@ -5,6 +5,8 @@
 # Hello all. 👋
 I'm currently attending ASU studying Graphic Information Technology (User Experience). I worked in advertising industry, as a Graphic Designer, as a Copwriter for 30 years as well. 
 
+
+![Profile Views](https://komarev.com/ghpvc/?username=endereml)
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td valign="top">
@@ -15,6 +17,7 @@ I'm currently attending ASU studying Graphic Information Technology (User Experi
     </td>
   </tr>
 </table>
+
 <!--
 **endereml/endereml** is a ✨ _special_ ✨ repository because its `README.md` (this![Uploading uxdesign.jpg…]()
  file) appears on your GitHub profile.
