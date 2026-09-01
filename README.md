@@ -3,7 +3,7 @@
 
 
 # Hello all. 👋
-I'm currently attending ASU studying Graphic Information Technology (User Experience). I worked in advertising industry, as a Graphic Designer, as a Copwriter for 30 years as well. 
+
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=endereml)
